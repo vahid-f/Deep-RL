@@ -5,7 +5,7 @@ P1-Navigation- Udacity Deep Reinforcement Learning Nanodegree Program
 For this project, I will train an agent to navigate (and collect yellow bananas!) in a large, square world.
 
 
-<img src="https://github.com/HadisAB/Navigation-DRL-Udacity/blob/master/images/envexample.png" />
+<img src="https://github.com/vahid-f/Deep-RL/blob/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/images/envexample.png" />
 
 
 ### Goal
@@ -41,12 +41,12 @@ I have solved the project by Deep Q-Networks and also considering the 'Experienc
 
 Follow below steps to run the code:
 1. Install all required dependencies of the project based on above links.
-2. Download the [dqn-agent.py](https://github.com/HadisAB/Navigation-DRL-Udacity/blob/master/Training%20code/dqn_agent.py), [model.py](https://github.com/HadisAB/Navigation-DRL-Udacity/blob/master/Training%20code/model.py) and [Navigation.py](https://github.com/HadisAB/Navigation-DRL-Udacity/blob/master/Training%20code/navigation.py) files from [training code](https://github.com/HadisAB/Navigation-DRL-Udacity/tree/master/Training%20code).
+2. Download the [dqn-agent.py](https://github.com/vahid-f/Deep-RL/blob/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/Training%20code/dqn_agent.py), [model.py](https://github.com/vahid-f/Deep-RL/blob/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/Training%20code/model.py) and [Navigation.py](https://github.com/vahid-f/Deep-RL/blob/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/Training%20code/navigation.py) files from [training code](https://github.com/vahid-f/Deep-RL/tree/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/Training%20code).
 3. Put all the downloded .py files in one folder.
-4. Open the [Navigation.py](https://github.com/HadisAB/Navigation-DRL-Udacity/blob/master/Training%20code/navigation.py) in spyder and Run the code.
+4. Open the [Navigation.py](https://github.com/vahid-f/Deep-RL/blob/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/Training%20code/navigation.py) in spyder and Run the code.
 
 
-Also refer to the [report](https://github.com/HadisAB/Navigation-DRL-Udacity/blob/master/Report.md) for more clarification of the method. 
+Also refer to the [report](https://github.com/vahid-f/Deep-RL/blob/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/Report.md) for more clarification of the method. 
 
 
 
