@@ -67,5 +67,5 @@ UPDATE_EVERY = 4        &nbsp; &nbsp; how often to update the network
 
 ### Ideas for future work
 
-As discussed in the Udacity Course, a further evolution to this project would be to train the agent directly from the environment's observed raw pixels instead of using the environment's internal states (37 dimensions).
+As discussed in the Udacity Course, a further evolution to this project would be to train the agent directly from the environment's observed raw pixels instead of using the environment's internal states (37 dimensions).other algorithms instead of Deep Q-Networks, we can introduce enhancers like experience replay or tweak the parameters
 
