@@ -44,11 +44,11 @@ I have solved the project by Deep Deterministic Policy Gradients (DDPG) algorith
 
 Follow below steps to run the code:
 1. Install all required dependencies of the project based on above links.
-2. Download the [Collaboration and Competitionl.py](https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/blob/master/Training%20Codes/Collaboration%20and%20Competition.py) files from [Training code](https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/tree/master/Training%20Codes).
+2. Download the [Collaboration and Competitionl.py](https://github.com/vahid-f/Deep-RL/blob/master/Collaboration-and-Competition_DRL_Udacity-master/Collaboration-and-Competition_DRL_Udacity-master/Training%20Codes/Collaboration%20and%20Competition.py) files from [Training code](https://github.com/HadisAB/Continous-Control---DRL---Udacity/tree/master/Training%20Code).
 3. Put all the downloded .py files in one folder.
-4. Open the [Collaboration and Competitionl.py](https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/blob/master/Training%20Codes/Collaboration%20and%20Competition.py) in spyder and Run the code.
+4. Open the [Collaboration and Competitionl.py](https://github.com/vahid-f/Deep-RL/blob/master/Collaboration-and-Competition_DRL_Udacity-master/Collaboration-and-Competition_DRL_Udacity-master/Training%20Codes/Collaboration%20and%20Competition.py) in spyder and Run the code.
 
 
-Also refer to the [report](https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/blob/master/Report.md) for more clarification of the method. 
+Also refer to the [report](https://github.com/vahid-f/Deep-RL/blob/master/Collaboration-and-Competition_DRL_Udacity-master/Collaboration-and-Competition_DRL_Udacity-master/Report.md) for more clarification of the method. 
 
 
