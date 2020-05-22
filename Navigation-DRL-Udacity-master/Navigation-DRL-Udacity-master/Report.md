@@ -5,7 +5,7 @@ P1-Navigation <br/>
 
 ### Description
 For this project, I will train an agent to navigate (and collect bananas!) in a large, square world.<br/>
-[Environment view](https://github.com/HadisAB/Navigation-DRL-Udacity/blob/master/images/videoexample.mp4)
+[Environment view](https://github.com/vahid-f/Deep-RL/blob/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/images/videoexample.mp4)
 
 
 
@@ -27,7 +27,7 @@ The used environment for Windows 64 :
 
 
 ### Solution
-I have solved the project by Deep Q-Networks and also considering the 'Experience Replay' and 'Fixed Q Targets' to improvement the training. You can find the solution by refering to [training code](https://github.com/HadisAB/Navigation-DRL-Udacity/tree/master/Training%20code) and using below clarification. <br/>
+I have solved the project by Deep Q-Networks and also considering the 'Experience Replay' and 'Fixed Q Targets' to improvement the training. You can find the solution by refering to [training code](https://github.com/vahid-f/Deep-RL/tree/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/Training%20code) and using below clarification. <br/>
 
 **Navigation.py**: This is the main script which shows the intersections between the environment and agent by using following functions. <br/>
 
@@ -59,10 +59,10 @@ UPDATE_EVERY = 4        &nbsp; &nbsp; how often to update the network
 
 ### Result
 
-<img src="https://github.com/HadisAB/Navigation-DRL-Udacity/blob/master/images/scores.png" />
+<img src="https://github.com/vahid-f/Deep-RL/blob/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/images/scores.png" />
 
 
-<img src="https://github.com/HadisAB/Navigation-DRL-Udacity/blob/master/images/scoretrend.png" />
+<img src="https://github.com/vahid-f/Deep-RL/blob/master/Navigation-DRL-Udacity-master/Navigation-DRL-Udacity-master/images/scoretrend.png" />
 
 
 ### Ideas for future work
