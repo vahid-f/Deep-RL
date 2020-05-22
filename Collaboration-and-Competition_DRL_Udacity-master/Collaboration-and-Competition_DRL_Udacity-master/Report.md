@@ -56,6 +56,10 @@ You can find the solution by refering to [Training code](https://github.com/vahi
 **agent2_checkpoint_actor.pth**: This stores the trained weights of Actor for second agent. <br/>
 
 **agent2_checkpoint_critic.pth**: This stores the trained weights for Critic for second agent. <br/>
+### Architecture of the actor
+each agent has its own actor local, actor target, critic local and critic target networks. The model architecture for MADDPG resembles DDPG very closely. DDPG, concatenates the actions to the input of the second hidden layer, after the states have already gone through in the first hidden layer.
+
+
 
 ### used parameters
 BUFFER_SIZE = int(1e5)   &nbsp; &nbsp; replay buffer size<br/>
