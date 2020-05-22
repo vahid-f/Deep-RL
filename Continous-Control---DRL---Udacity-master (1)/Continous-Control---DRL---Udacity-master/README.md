@@ -5,7 +5,7 @@ P2-Continous Control- Udacity Deep Reinforcement Learning Nanodegree Program
 ## Project details
 For this project, I will train an robotic arm to reach target locations in [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. 
 
-<img src=https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/images/example_env.png />
+<img src=https://github.com/vahid-f/Deep-RL/blob/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/images/example_env.png />
 
 
 ### Goal
@@ -36,11 +36,11 @@ I have solved the project by Deep Deterministic Policy Gradients (DDPG) algorith
 
 Follow below steps to run the code:
 1. Install all required dependencies of the project based on above links.
-2. Download the [ddpg-agent.py](https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/Training%20Code/ddpg_agent.py), [model.py](https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/Training%20Code/model.py) and [Continous Control.py](https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/Training%20Code/Continuous%20Control.py) files from [Training code](https://github.com/HadisAB/Continous-Control---DRL---Udacity/tree/master/Training%20Code).
+2. Download the [ddpg-agent.py](https://github.com/vahid-f/Deep-RL/blob/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/Training%20Code/ddpg_agent.py), [model.py](https://github.com/vahid-f/Deep-RL/blob/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/Training%20Code/model.py) and [Continous Control.py](https://github.com/vahid-f/Deep-RL/blob/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/Training%20Code/Continuous%20Control.py) files from [Training code](https://github.com/vahid-f/Deep-RL/tree/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/Training%20Code).
 3. Put all the downloded .py files in one folder.
-4. Open the [Continous Control.py](https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/Training%20Code/Continuous%20Control.py) in spyder and Run the code.
+4. Open the [Continous Control.py](https://github.com/vahid-f/Deep-RL/blob/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/Training%20Code/Continuous%20Control.py) in spyder and Run the code.
 
 
-Also refer to the [report](https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/Report.md) for more clarification of the method. 
+Also refer to the [report](https://github.com/vahid-f/Deep-RL/blob/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/Report.md) for more clarification of the method. 
 
 
