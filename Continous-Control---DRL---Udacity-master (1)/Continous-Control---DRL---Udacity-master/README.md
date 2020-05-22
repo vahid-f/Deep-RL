@@ -4,6 +4,7 @@ P2-Continous Control- Udacity Deep Reinforcement Learning Nanodegree Program
 
 ## Project details
 For this project, I will train an robotic arm to reach target locations in [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. 
+In this project, an agent learns to control a double-jointed arm to follow the target locations (Reacher environment). A reward of +0.1 is provided for each step that the agent's hand is in the target location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible. The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector is a number between -1 and 1. The task is episodic, and in order to solve the environment, an agent must get an average score of +30 over 100 consecutive episodes.
 
 <img src=https://github.com/vahid-f/Deep-RL/blob/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/images/example_env.png />
 
