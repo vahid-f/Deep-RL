@@ -6,7 +6,7 @@ P3-Collaboration and Competition <br/>
 ### Description
 For this project, I will train a pair of agents to play tennis in a [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment. 
 
-<img src=https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/blob/master/Images/env.example.png />
+<img src=https://github.com/vahid-f/Deep-RL/blob/master/Collaboration-and-Competition_DRL_Udacity-master/Collaboration-and-Competition_DRL_Udacity-master/Images/env.example.png />
 
 
 
@@ -26,7 +26,7 @@ Download the used environment for Windows 64 :
 
 ### Solution
 I have solved the project by Deep Deterministic Policy Gradients (DDPG) algorithm. The main used reference to solve this project is the udacity [DDPG exercises](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum). <br/>
-You can find the solution by refering to [Training code](https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/tree/master/Training%20Codes) and using below clarification. <br/>
+You can find the solution by refering to [Training code](https://github.com/vahid-f/Deep-RL/tree/master/Collaboration-and-Competition_DRL_Udacity-master/Collaboration-and-Competition_DRL_Udacity-master/Training%20Codes) and using below clarification. <br/>
 
 * I decided to start with the DDPG code to solve this project.
 * Please note that each agent receives its own, local observation. Thus, we can adapt the code to simultaneously train both agents through self-play. 
@@ -67,13 +67,13 @@ LR_CRITIC = 1e-3        &nbsp; &nbsp; learning rate for Critic<br/>
 
 ### Result
 
-<img src="https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/blob/master/Images/scores.png" />
+<img src="https://github.com/vahid-f/Deep-RL/blob/master/Collaboration-and-Competition_DRL_Udacity-master/Collaboration-and-Competition_DRL_Udacity-master/Images/scores.png" />
 
 
-<img src="https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/blob/master/Images/Avg_scores.png" />
+<img src="https://github.com/vahid-f/Deep-RL/blob/master/Collaboration-and-Competition_DRL_Udacity-master/Collaboration-and-Competition_DRL_Udacity-master/Images/Avg_scores.png" />
 
 
-<img src="https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/blob/master/Images/trend.png" />
+<img src="https://github.com/vahid-f/Deep-RL/blob/master/Collaboration-and-Competition_DRL_Udacity-master/Collaboration-and-Competition_DRL_Udacity-master/Images/trend.png" />
 
 
 ### Ideas for future work
