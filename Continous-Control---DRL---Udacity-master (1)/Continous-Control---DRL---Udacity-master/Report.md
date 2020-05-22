@@ -6,7 +6,7 @@ P2-Continous Control <br/>
 ### Description
 For this project, I will train an robotic arm to reach target locations in [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. 
 
-<img src=https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/images/example_env.png />
+<img src=https://github.com/vahid-f/Deep-RL/blob/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/images/example_env.png />
 
 
 
@@ -25,7 +25,7 @@ The used environment for Windows 64 : [one agent Reacher Environment](https://s3
 I have solved the project by Deep Deterministic Policy Gradients (DDPG) algorithm. The main used reference to solve this project is the udacity [DDPG exercises](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum). <br/>
 
 
-You can find the solution by refering to [Training code](https://github.com/HadisAB/Continous-Control---DRL---Udacity/tree/master/Training%20Code) and using below clarification. <br/>
+You can find the solution by refering to [Training code](https://github.com/vahid-f/Deep-RL/tree/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/Training%20Code) and using below clarification. <br/>
 
 * I have trained the agent for some episodes and for some maximum number of time-steps in each episode.
 * The training loop is composed of acting (selects the action) and learning (updates the weights to maximize value estimation) steps. 
@@ -54,10 +54,10 @@ LR_CRITIC = 2e-4        &nbsp; &nbsp; learning rate for Critic<br/>
 
 ### Result
 
-<img src="https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/images/scores.png" />
+<img src="https://github.com/vahid-f/Deep-RL/blob/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/images/scores.png" />
 
 
-<img src="https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/images/scoretrend.png" />
+<img src="https://github.com/vahid-f/Deep-RL/blob/master/Continous-Control---DRL---Udacity-master%20(1)/Continous-Control---DRL---Udacity-master/images/scoretrend.png" />
 
 
 ### Ideas for future work
