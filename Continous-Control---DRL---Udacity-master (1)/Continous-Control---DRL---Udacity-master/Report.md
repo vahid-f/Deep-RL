@@ -1,6 +1,6 @@
 # Continous Control-DRL-Udacity Report
-Udacity Deep Reinforcement Learning Nanodegree Program<br/>
-P2-Continous Control <br/>
+
+P2-Continous Control project <br/>
 
 
 ### Description
